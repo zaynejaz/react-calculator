@@ -1,3 +1,3 @@
-# Simple React Calculator with Dark / Mode Toggle
+# Simple React Calculator with Dark / Light Mode Toggle
 
-View [React Calculator App](https://zaynejaz.github.io/react-calculator/) online`
+View [React Calculator App](https://zaynejaz.github.io/react-calculator/)
